@@ -39,3 +39,5 @@ This script renames all the .wav files following a pattern like "BMB_001", "BMB_
 2. Run the "audio_file_rename_001.py" script.
 3. Press "Enter" at the end of the script if prompted.
 
+Edit the script accordingly to put in the pattern that you want.
+
