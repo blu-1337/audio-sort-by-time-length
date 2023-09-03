@@ -4,7 +4,7 @@ Sort your audio file by lenght of the audio into folders.
 
 # Prerequisites
 1. python
-  *//download python from https://www.python.org/downloads/
+⋅⋅* download python from https://www.python.org/downloads/
 3. pip install scipy //run this command in cmd (on Windows, for example)
 
 # How To Use
